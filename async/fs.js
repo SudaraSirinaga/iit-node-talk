@@ -7,4 +7,4 @@ var retrievedFile = fs.readFile('./sometextfile.txt', {encoding: 'utf8'}, functi
     console.log('File really retrieved');
     console.log('File contents: ' + file);
 });
-console.log('retrieved file: ' + retrievedFile);
+console.log('time now: ' + Date.now());
