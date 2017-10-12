@@ -1,0 +1,23 @@
+{
+  "name": "iit-node-talk",
+  "author": "Sajeetharan<sajeetharan@outlook.com>",
+  "version": "0.3.0",
+  "description": "Some example files for node tech talk",
+  "license" : "ISC",
+  "repository": { 
+    "type" : "git", 
+    "url" :   ""
+  },
+  "scripts": {
+   
+  },
+  "dependencies": {
+    "async": "~0.2.8",
+    "express": "~3.2.4",
+    "socket.io": "~0.9.14"
+  },
+  "devDependencies": {
+    "chalk": "^1.0.0",
+    "mocha": "^2.2.4"
+  }
+}
